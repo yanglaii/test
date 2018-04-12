@@ -1,5 +1,0 @@
----
- - hosts: localhost
-   tasks:
-     - name: 测试awx是否可用
-       command: ls /
